@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const apiUrl = 'http://air4thai.pcd.go.th/forappV2/getAQI_JSON.php?stationID=76t';
-const lineNotifyToken = 'iu6LoSgIEgVdx2C04PVTNRYdFlx2UgBYr58IsMARYRQ'; // ใส่ Token ของคุณที่ได้จาก LINE Notify
+const lineNotifyToken = 'JFWWsvWuz0LHjfGhaMl93ikXj1XlgD9wnAqheq9YuQn'; // ใส่ Token ของคุณที่ได้จาก LINE Notify
 
 async function fetchData() {
   try {

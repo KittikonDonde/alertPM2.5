@@ -1,0 +1,1 @@
+C:\Users\Administrator\Documents\GitHub\alertPM2.5\line-notify-project\cmd.lnk
